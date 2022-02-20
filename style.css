@@ -59,8 +59,8 @@ nav{
   
 }
 nav.sticky{
-     background-color: rgb(33, 37, 41) !important;
-    color: white;
+     background-color: white !important;
+    color: rgb(20, 19, 19);
     height: 50px;
     position: fixed !important;
     width: 100%;
@@ -72,7 +72,7 @@ nav.sticky{
 
 
 .nav-link{
-   color: rgb(255, 255, 255) !important;
+   color: rgb(22, 21, 21) !important;
    
 }
 
@@ -423,12 +423,12 @@ background-color:#4216c7;
         padding-top: 1px;
     }
     .bg-light{
-        background-color: rgb(33, 37, 41) !important;
+        background-color: rgb(255, 255, 255) !important;
     }
 
     nav.sticky{
-     background-color: rgb(33, 37, 41) !important;
-    color: white;
+     background-color: rgb(255, 255, 255) !important;
+    color: rgb(0, 0, 0);
     height: 100px;
     position: fixed !important;
     width: 100%;
@@ -438,7 +438,7 @@ background-color:#4216c7;
 }
 
 .itemsnav{
-    background-color: rgb(33, 37, 41);
+    background-color: rgb(255, 255, 255);
     padding-left: 50px;
 }
 
