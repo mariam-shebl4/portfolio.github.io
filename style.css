@@ -36,7 +36,7 @@ header::after{
     right: 0;
     bottom: 0;
     left: 0;
-    top: 27px;
+    top: 0px;
     background: rgba(0, 0, 0, 0.384);
     -webkit-box-shadow: -13px 9px 13px 5px rgba(0,0,0,0.81); 
 box-shadow: -13px 9px 13px 5px rgba(0,0,0,0.81);
